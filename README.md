@@ -10,7 +10,7 @@ Python, SQL, R, Tableau
 
 ## 🔗 Links
 [![portfolio]()](https://github.com/Ketkihulwan)
-[![linkedin]([https://img.shields.io/badge/LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))](https://www.linkedin.com/in/ketki-hulwan-aa19351a5/))
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ketki-hulwan-aa19351a5/))
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ketkihulwan&theme=dracula&show_icons=true&hide_border=false&count_private=false">
