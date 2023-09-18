@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me
-I think of myself as a future Data Scientist. Now, I am just a Human trying to find herself.
+I am a recent graduate in Data Science, Currently looking for job roles in the Analytical Industry.
 
 
 ## 🛠 Skills
